@@ -1,0 +1,7 @@
+ultralytics>=8.3.0
+
+### Optional - ONNX format
+# onnx>=1.17.0
+
+### Optional - WIDERFace evaluation
+# Cython>=3.0.0
